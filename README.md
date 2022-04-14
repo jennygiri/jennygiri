@@ -1,10 +1,12 @@
 <div align="center">
 
-### Hi there 👋, my name is Jenny!
+### Hey there, I'm Jenny!  Welcome to my GitHub!
+  
+![mainpic](https://i.imgur.com/aQKz0At.jpg)
+I'm a full-stack web developer who enjoys prioritizing the user experience through design 👩‍🎨 and speed optimization!  I have always had a love for language and the written word, and my degree in English and Linguistics only strengthened that 📚.  My drive for Software Engineering is perfect amalgam of my passion for language and my passion for building new things 🏗.
 
 ### Where to Find Me
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jgiri)](https://www.linkedin.com/in/jgiri/)
-[![GitHub](https://img.shields.io/badge/Github-181717?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jennygiri)](https://github.com/jennygiri)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jenniferanngiri@gmail.com)](mailto:jenniferanngiri@gmail.com)
 
 ## Technology Stack
