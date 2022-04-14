@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Jenny!  Welcome to my GitHub!
   
-![mainpic](https://i.imgur.com/aQKz0At.jpg)
+![mainpic](https://i.imgur.com/3pMGcJR.jpg)
 I'm a full-stack web developer who enjoys prioritizing the user experience through design 👩‍🎨 and speed optimization!  I have always had a love for language and the written word, and my degree in English and Linguistics only strengthened that 📚.  My drive for Software Engineering is perfect amalgam of my passion for language and my passion for building new things 🏗.
 
 ### Where to Find Me
