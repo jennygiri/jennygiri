@@ -5,7 +5,7 @@
 <!-- ![mainpic](https://i.imgur.com/3pMGcJR.jpg)  -->
   
   <div align="center">
-    ## Test
+    ### Hey there, I'm Jenny!  Welcome to my GitHub!
     
 ![mainpic](https://i.imgur.com/esGSgr6.jpg)
   
