@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 ![Styled-components](https://img.shields.io/badge/Styled%20Components-DB7093?&style=for-the-badge&logo=styled-components&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material%20UI-0081CB?&style=for-the-badge&logo=materialui&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white)
-![axios]
 
 ### Back End
 
@@ -51,9 +50,6 @@ Here are some ideas to get you started:
 ![Jest](https://img.shields.io/badge/Jest-C21325?&style=for-the-badge&logo=Jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?&style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai-A30701?&style=for-the-badge&logo=Chai&logoColor=white)
-![Frisby]
-![Loader.io]
-![Artillery]
 ![aws](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?&style=for-the-badge&logo=npm&logoColor=white)
