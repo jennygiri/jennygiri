@@ -58,4 +58,4 @@
 
   </div>
 Contributions from work Github account:
-![image](https://github.com/jennygiri/jennygiri/assets/89163446/ba249ba8-df95-4581-bd83-4e1af76b29c6)
+<img width="1147" alt="Screenshot 2024-01-23 at 12 24 47 PM" src="https://github.com/jennygiri/jennygiri/assets/89163446/b0764f8c-6b7a-4fc5-a616-9f4de2c8336e">
