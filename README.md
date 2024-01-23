@@ -57,3 +57,5 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?&style=for-the-badge&logo=eslint&logoColor=white)
 
   </div>
+Contributions from work Github account:
+![image](https://github.com/jennygiri/jennygiri/assets/89163446/ba249ba8-df95-4581-bd83-4e1af76b29c6)
